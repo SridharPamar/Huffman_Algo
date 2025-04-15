@@ -1,10 +1,6 @@
 **Huffman Algorithm for File Compression**
 =========================
 
-https://github.com/TheNilesh/huffman/  
-License: Public Domain, no warranty  
-Nilesh Akhade
-
 About
 =====
 
