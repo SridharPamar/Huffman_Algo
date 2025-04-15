@@ -1,14 +1,3 @@
-/* Title: Huffman Coding for files
-   URL: htts://github.com/TheniL/huffman
-   Date_start: 25/11/2014
-   OC 1: 01/12/2014
-   Author: niLesh	*/
-/*
-TODO: handle Codewords longer than MAX
-TODO: Use free() to deallocate memory
-TODO: sort linked list in non-increasing order, at genCode().
-TODO: Store code in bit array form(in Header), rather than string form, to save space
-*/
 
 #include<stdio.h>
 #include<malloc.h>
